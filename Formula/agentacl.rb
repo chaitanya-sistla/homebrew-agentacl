@@ -1,8 +1,8 @@
 class Agentacl < Formula
   desc "OS-level permissions for AI coding agents on macOS"
   homepage "https://github.com/chaitanya-sistla/agentacl"
-  url "https://github.com/chaitanya-sistla/agentacl/releases/download/v0.3.1/agentacl-0.3.1-macos-universal.tar.gz"
-  sha256 "9d2ca7162597f07f5f36076ec0b21587ef5c07df8ecd1a685db71bf02583e68f"
+  url "https://github.com/chaitanya-sistla/agentacl/releases/download/v0.4.0/agentacl-0.4.0-macos-universal.tar.gz"
+  sha256 "8b719710348aacfd8d44878b70d51bc43191d5b8ce662309312393cafc7476c6"
   license "Apache-2.0"
 
   depends_on :macos
